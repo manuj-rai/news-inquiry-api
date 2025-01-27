@@ -2164,11 +2164,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Project\\MyApi.Data\\MyApi.Data.csproj",
+      "projectUniqueName": "E:\\Project\\News and Inquiry Management\\MyApi.Data\\MyApi.Data.csproj",
       "projectName": "MyApi.Data",
-      "projectPath": "E:\\Project\\MyApi.Data\\MyApi.Data.csproj",
+      "projectPath": "E:\\Project\\News and Inquiry Management\\MyApi.Data\\MyApi.Data.csproj",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\Project\\MyApi.Data\\obj\\",
+      "outputPath": "E:\\Project\\News and Inquiry Management\\MyApi.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
